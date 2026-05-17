@@ -1,0 +1,10 @@
+name = "tcxHap_prebuilt_jll"
+uuid = "7e05f6af-0904-4d10-a62c-731e6275e007"
+version = "0.1.0"
+authors = ["Fumiya Funatsu <funatsu.fumiya@gmail.com>"]
+
+[deps]
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+Artifacts = "1.11.0"

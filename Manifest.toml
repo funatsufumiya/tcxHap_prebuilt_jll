@@ -1,0 +1,15 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.6"
+manifest_format = "2.0"
+project_hash = "8d76ea6170a8f38c33f9c72d1123532c66e6b674"
+
+[[deps.Artifacts]]
+uuid = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+version = "1.11.0"
+
+[[deps.tcxHap_prebuilt_jll]]
+deps = ["Artifacts"]
+path = "."
+uuid = "7e05f6af-0904-4d10-a62c-731e6275e007"
+version = "0.1.0"
