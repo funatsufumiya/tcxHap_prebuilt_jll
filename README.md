@@ -15,7 +15,7 @@ julia --project=@. -e 'using tcxHap_prebuilt_jll; println(tcxHap_prebuilt_jll.ge
 
 ## Develop
 
-see https://github.com/funatsufumiya/TrussC_prebuilt_jll_packager.jl
+see https://github.com/funatsufumiya/tcxHap_prebuilt_jll_packager.jl
 
 ### Check
 
