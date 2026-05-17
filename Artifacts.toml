@@ -4,23 +4,23 @@ os = "macos"
 arch = "aarch64"
 
     [[tcxHap_prebuilt_jll.download]]
-    sha256 = "4394b0c1c698a7c885303d73b61c8cd414cfb890e7c1460f31895dedc094cf7c"
+    sha256 = "144a4011b56a564328caa3ac5a986fb240bd830f562b086527abe4e3b6b34a74"
     url = "https://github.com/funatsufumiya/tcxHap_prebuilt_jll_packager.jl/releases/download/v0.1.0/macos-aarch64.tar.gz"
 
 [[tcxHap_prebuilt_jll]]
-git-tree-sha1 = "2346fc78eb98b7999a072513bfd5136f15ffc776"
+git-tree-sha1 = "ee1f9ccf8eb387e18e9bd5de8bd7b7d4f922be3a"
 os = "linux"
 arch = "x86_64"
 
     [[tcxHap_prebuilt_jll.download]]
-    sha256 = "03ab221110bfbaa5e502339be530506bdd04a99bd5c3642bde32738010b111fc"
+    sha256 = "40e0d2ac28faaa0e201cd04eadae4c7514c9e532b3eee913e1a59cb37054f313"
     url = "https://github.com/funatsufumiya/tcxHap_prebuilt_jll_packager.jl/releases/download/v0.1.0/linux-x86_64.tar.gz"
 
 [[tcxHap_prebuilt_jll]]
-git-tree-sha1 = "510c39d2ef73a45d5f5de1398bc54555ee5e34ba"
+git-tree-sha1 = "f879006f57ac7432fd7c5df4e704e070d0d87d43"
 os = "windows"
 arch = "x86_64"
 
     [[tcxHap_prebuilt_jll.download]]
-    sha256 = "25cec8525d41854facdd8f0b22781a2662f56093af744a04cd44b7e80f6f1c5e"
+    sha256 = "2e5e19094ad828d66c128bb02ccb3877a2c5f0dcd118fd943f7b713418477048"
     url = "https://github.com/funatsufumiya/tcxHap_prebuilt_jll_packager.jl/releases/download/v0.1.0/windows-x86_64.tar.gz"
